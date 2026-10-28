@@ -1,4 +1,4 @@
-Tarea 5 — Patrones de Diseño en C++
+#Tarea 5 — Patrones de Diseño en C++
 Curso: Programación III
 Periodo: 2026-2
 Docente: José A. Chávez Álvarez
